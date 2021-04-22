@@ -2,6 +2,11 @@
 Roman Numerals
 ==================
 
+## Run tests
+
+`python test/pragmatists/romannumerals/ExampleTest.py -v`
+
+
 ### Part I
 # Problem Description
 (from [codingdojo.org](http://www.codingdojo.org/cgi-bin/index.pl?KataRomanNumerals))
